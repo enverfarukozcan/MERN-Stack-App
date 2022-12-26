@@ -27,4 +27,4 @@ After installation, on terminal open clientSide folder and run the following scr
 npm start
 ```
 ## Screenshoot of application
-<img width="1460" alt="Screenshot 2022-12-26 at 00 36 31" src="https://user-images.githubusercontent.com/34477330/209484638-44f92e2d-0235-4f90-a2e8-a31cc855766b.png">
+<img width="1454" alt="Screenshot 2022-12-26 at 01 28 39" src="https://user-images.githubusercontent.com/34477330/209485904-db05f42b-e6c7-4d19-ab86-85bd5eda9c20.png">
